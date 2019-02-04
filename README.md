@@ -10,7 +10,7 @@
 % Under no circumstances will authors or copyright holders be liable for any claims,
 % damages or other liability arising from the use any part of related code.
 % *************************************************************************
-%  This code uses the following subfunction:
+%  This code uses the following subfunctions:
 %           MRC_automatic.m   - Automated method of creating MRCs
 %           ext_recess.m      - Automated way of identifying recession curves
 %           sort_min_val.m    - It organizes the recession curves in ascending 
