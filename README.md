@@ -19,5 +19,5 @@
 %           filter_guide.m    - Numerical Filters for Hydrographs Separation
 %           creatFit          - data fit functions
 % **************************************************************************
-% To use MRCPtool use the "guide" command (without quotes) 
-% at the MATLAB prompt and select MRC.fig (in the file directory)
+To use MRCPtool use the "guide" command (without quotes) at the MATLAB prompt and select MRC.fig (in the file directory).
+The file ward.xlsx shows how data should be organized for analysis with MRCPtool and can be used to test or resources available tool.
