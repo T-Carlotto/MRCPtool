@@ -32,7 +32,7 @@ damages or other liability arising from the use any part of related code.
            
            filter_guide.m    - Numerical Filters for Hydrographs Separation
            
-           creatFit          - data fit functions
+           createFit          - data fit functions
 
 **************************************************************************
 
