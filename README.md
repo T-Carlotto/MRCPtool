@@ -20,12 +20,18 @@ damages or other liability arising from the use any part of related code.
 
 *************************************************************************
   This code uses the following subfunctions:
-           MRC_automatic.m   - Automated method of creating MRCs/
+  
+           MRC_automatic.m   - Automated method of creating MRCs
+           
            ext_recess.m      - Automated way of identifying recession curves
+           
            sort_min_val.m    - It organizes the recession curves in ascending 
                                order by the minimum values
+                               
            FDC.m             - MRC Separation Tool using Flow duration curve
+           
            filter_guide.m    - Numerical Filters for Hydrographs Separation
+           
            creatFit          - data fit functions
 
 **************************************************************************
