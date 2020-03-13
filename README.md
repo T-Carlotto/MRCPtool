@@ -38,3 +38,6 @@ damages or other liability arising from the use any part of related code.
 
 To use MRCPtool use the "guide" command (without quotes) at the MATLAB prompt and select MRC.fig (in the file directory).
 The file ward.xlsx shows how data should be organized for analysis with MRCPtool and can be used to test or resources available tool
+
+For more details on MRCPtool, access the article available at:
+https://www.sciencedirect.com/science/article/pii/S0098300419301025
