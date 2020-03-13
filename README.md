@@ -1,6 +1,6 @@
 # MRCPtool
 
-![alt text] (https://github.com/T-Carlotto/MRCPtool/blob/master/Fig2-cageo.png)
+![alt text](https://github.com/T-Carlotto/MRCPtool/blob/master/Fig2-cageo.png)
 
 *************************************************************************
 
