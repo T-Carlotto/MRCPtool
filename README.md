@@ -25,7 +25,8 @@ Contact address: thomas.carl@hotmail.com
 
 This code or any part of it may be used as long as the authors are cited.
 To cite MRCPtool use the article available at: 
-https://www.sciencedirect.com/science/article/pii/S0098300419301025
+https://www.sciencedirect.com/science/article/pii/S0098300419301025.
+
 Under no circumstances will authors or copyright holders be liable for any claims,
 damages or other liability arising from the use any part of related code.
 
