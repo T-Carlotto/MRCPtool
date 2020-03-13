@@ -4,9 +4,11 @@
 
  Master Recession Curve Parameterization Tool (MRCPtool)
  
-       The MRCPtool was developed in MATLAB for streamflow recession analysis.
-       MRCPtool brings together a set of automated resources for creating and analyzing Master Recession Curves.
-       MRCPtool considers different models and analytical expressions and provides comparison with graphical methods of MRCs.
+     - The MRCPtool was developed in MATLAB for streamflow recession analysis.
+     
+     - MRCPtool brings together a set of automated resources for creating and analyzing Master Recession Curves.
+     
+     - MRCPtool considers different models and analytical expressions and provides comparison with graphical methods of MRCs.
 
 *************************************************************************
 
