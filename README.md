@@ -4,7 +4,6 @@
 
 Master Recession Curve Parameterization Tool (MRCPtool)
  
-Abstract
 Streamflow recession analysis is crucial for understanding how catchments release water in periods of drought and therefore is   important for water resources planning and management. Despite there being several theories on how to model recession curves, few studies compare the different approaches to that problem. In this work, we developed the Master Recession Curve Parameterization tool (MRCPtool), which brings together a set of automated methods for the analysis of recession periods based only on streamflow data. The methods include: (i) hydrograph separation using numerical filters; (ii) automatic extraction of recession periods; (iii) creation of the MRC with the matching strip method; (iv) creation of the MRC for different flow classes defined from the flow duration curve; (v) analysis of flow recession rates (-dQ/dt) as a function of flow (Q) and (vi) creation of the MRC from simulated recession curves with different analytical approaches, including linear and nonlinear models. The MRCPtool contains a graphical user interface developed in MATLAB software that facilitates the analysis of streamflow datasets.
  
      - The MRCPtool was developed in MATLAB for streamflow recession analysis.
